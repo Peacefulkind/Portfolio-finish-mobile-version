@@ -608,8 +608,16 @@ ul li {
   flex-grow: 0;
 }
 
+.get:enabled {
+  border: 2px dotted blue;
+}
+
 .get:hover {
   background-color: lightblue;
+}
+
+.get:active {
+  background-color: blue;
 }
 
 .lang {
