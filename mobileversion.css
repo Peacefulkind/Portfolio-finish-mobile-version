@@ -404,6 +404,7 @@ ul li {
 
 .maincon li {
   display: inline-flex;
+  float: left;
 }
 
 .see {
