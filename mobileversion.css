@@ -740,7 +740,6 @@ button:active {
   background-repeat: no-repeat;
   background-position: top right;
   border: 1px solid #dfe1e6;
-  border-radius: 16px;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -831,7 +830,7 @@ textarea {
   border-radius: 16px;
   cursor: pointer;
   margin-top: 20px;
-  margin-left: 5px;
+  margin-left: 6vw;
 }
 
 .app span {
